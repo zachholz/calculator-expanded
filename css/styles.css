@@ -1,0 +1,42 @@
+body{
+  background-color: #4B68DE;
+}
+
+button{
+  background-color: #FF5733;
+}
+
+label{
+  color: #FF5733;
+}
+
+h1{
+  color: #FF5733;
+}
+
+#output{
+  /*border: #FF5733 solid 2px;*/
+  margin: 10px 0px;
+  display: block;
+  width: 100%;
+  height: 79px;
+  padding: 6px 12px;
+  font-size: 20px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: moccasin;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  color: #FF5733;
+
+}
+
+ .form-control {
+   background-color: moccasin;
+ }
+
+#input1, #input2 {
+  color: #FF5733;
+  font-style: italic;
+}
